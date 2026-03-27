@@ -1,2 +1,2 @@
 # anthony-s
-🌐 Live App: https://error-coach-ai.lovable.app
+🌐 Live App: [Open App](https://error-coach-ai.lovable.app)
